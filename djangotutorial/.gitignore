@@ -3,6 +3,7 @@ polls/__pycache__/
 /env/
 # Ignore Python cache and compiled files
 __pycache__/
+/polls/__pycache__/
 *.pyc
 
 # Ignore virtual environments
