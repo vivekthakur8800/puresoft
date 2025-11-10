@@ -1,2 +1,28 @@
 __pycache__/
-polls/__pycache__
+polls/__pycache__/
+/env/
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor config files
+.vscode/
+.idea/
+
+# Ignore environment variables
+.env
+
+# Ignore build or log files
+build/
+*.log
+
+# Ignore node modules (if applicable)
+node_modules/
